@@ -17,7 +17,7 @@ The tips of the example are as follow:
 
 1. You don't need to modify the table head, just write your information in. 
 
-   ![1551603371507](/home/yusnows/Syusnowsx/Projects/myown/nju-BachelorProposal/readme-images/1551603371507.png)
+   ![1551603371507](readme-images/1551603371507.png)
 
    ```latex
    %下面是表头的设置
@@ -92,7 +92,7 @@ The tips of the example are as follow:
 
    I use latex to write the proposal is mainly for the citation. We can usually download an article citation information from the publisher website, that is a big convenience.
 
-   ![1551606240424](/home/yusnows/Syusnowsx/Projects/myown/nju-BachelorProposal/readme-images/1551606240424.png)
+   ![1551606240424](readme-images/1551606240424.png)
 
    after download the bib text, just copy it to the bib file that you use. and the citation is the same as the normal environment.
 
